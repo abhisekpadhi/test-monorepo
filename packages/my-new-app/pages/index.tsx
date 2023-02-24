@@ -1,4 +1,6 @@
 import styles from './index.module.css';
+import path from 'path';
+path.resolve('./next.config.js');
 
 export function Index() {
   /*
